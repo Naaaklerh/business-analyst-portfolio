@@ -9,8 +9,5 @@ This dashboard visualizes key HR metrics across departments to support strategic
 - Visuals: Bar, line, and donut charts
 
 ## Tools Used
-- Power BI
+- Tableau
 - Excel (mock data)
-
-## Sample Screenshot
-(Insert dashboard screenshot here)
