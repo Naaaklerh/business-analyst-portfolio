@@ -1,13 +1,15 @@
-# HR KPI Dashboard (Tableau)
+# HR Turnover Analysis (Python)
 
 ## Overview
-This dashboard visualizes key HR metrics across departments to support strategic planning and day-to-day operations.
+Analyzed employee turnover data to identify trends and predictors of attrition.
 
 ## Key Features
-- Dynamic slicers (Department, Date Range)
-- KPIs: Attrition Rate, Avg Tenure, Training Hours, Absenteeism
-- Visuals: Bar, line, and donut charts
+- Data cleaning and transformation
+- Exploratory data analysis
+- Visualizations: Turnover by department, age, and satisfaction score
 
 ## Tools Used
-- Tableau
-- Excel (mock data)
+- Python (Pandas, Matplotlib)
+
+## Sample Code
+See notebook for code and results.
