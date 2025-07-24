@@ -1,15 +1,18 @@
-# HR Turnover Analysis (Python)
+# SQL-Based Performance Reporting
 
 ## Overview
-Analyzed employee turnover data to identify trends and predictors of attrition.
+Created SQL queries to support monthly HR performance reporting.
 
 ## Key Features
-- Data cleaning and transformation
-- Exploratory data analysis
-- Visualizations: Turnover by department, age, and satisfaction score
+- Onboarding, absenteeism, and promotion rates
+- Table joins and filtering
+- Structured queries for dashboards
 
 ## Tools Used
-- Python (Pandas, Matplotlib)
+- MySQL / SQLite
 
-## Sample Code
-See notebook for code and results.
+## Sample Query
+SELECT department, COUNT(*) AS new_hires
+FROM employees
+WHERE hire_date BETWEEN '2024-01-01' AND '2024-06-30'
+GROUP BY department;
