@@ -1,4 +1,4 @@
-# HR KPI Dashboard (Power BI)
+# HR KPI Dashboard (Tableau)
 
 ## Overview
 This dashboard visualizes key HR metrics across departments to support strategic planning and day-to-day operations.
@@ -9,8 +9,8 @@ This dashboard visualizes key HR metrics across departments to support strategic
 - Visuals: Bar, line, and donut charts
 
 ## Tools Used
-- Power BI
+- Tableau
 - Excel (mock data)
 
 ## Sample Screenshot
-(Insert dashboard screenshot here)
+
